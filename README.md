@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexW301
 - 👀 I’m interested in ... App and Web Development
-- 🌱 I’m currently learning ... Javascript and React Native
-- 💞️ I’m looking to collaborate on ... Cool projects
+- 🌱 I’m currently learning ... Web Design, Front End Code, React, and more...
+- 💞️ I’m looking to collaborate on ... Cool website ideas
 - 📫 How to reach me ... alexwaller301@gmail.com
 
 <!---
