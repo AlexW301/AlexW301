@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexW301
-- 👀 I’m interested in ... Front End Web Development
-- 🌱 I’m currently learning ... Web Design, Front End Code, React, and more...
-- 💞️ I’m looking to collaborate on ... Cool website ideas
+- 👀 I work at Premier Mortgage Lending as an IT Engineer / Software Developer
+- 🌱 Techologies that I use or am learning include ... React, Next JS, HTML, CSS, Sass, JS, JSX, Node JS, Strapi, Firebase, Graph QL, REST, VS Code, Web Design, and more...
 - 📫 How to reach me ... alexwaller301@gmail.com
 
 <!---
