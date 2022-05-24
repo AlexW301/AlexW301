@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexW301
 - 👀 I work at Premier Mortgage Lending as an IT Engineer / Software Developer
-- 🌱 Techologies that I use or am learning include ... React, Next JS, HTML, CSS, Sass, JS, JSX, Node JS, Strapi, Firebase, Graph QL, REST, VS Code, Web Design, and more...
+- 🌱 Always learning ... THREE.js, React, Next JS, HTML, CSS, Sass, JS, JSX, Node JS, Strapi, Firebase, Graph QL, REST, Sanity, Stripe, VS Code, Web Design, and more...
 - 📫 How to reach me ... alex@pmlhomeloans.com
 
 <!---
